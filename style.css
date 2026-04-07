@@ -262,6 +262,13 @@ a:hover {
     transform: scale(1.03);
 }
 
+button{
+background-color:black;
+    color:white;
+    padding:12px;
+    margin:12px;
+}
+
 @media (max-width:768px) {
     aside {
         display: none;
