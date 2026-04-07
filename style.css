@@ -180,6 +180,14 @@ section h2 {
     border-top: 3px solid #007BFF;
 }
 
+.contact-container{
+    background-color: rgba(239, 242, 245, 0.926);
+    padding: 12px;
+    margin: 12px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
 aside {
     width: 25%;
     margin: 0px;
