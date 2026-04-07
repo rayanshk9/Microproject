@@ -252,7 +252,7 @@ background-color:black;
     padding:12px;
     margin:12px;
     border-radius: 15px;
-    width:35px;
+    width: 60px;
 }
 
 @media (max-width:768px) {
