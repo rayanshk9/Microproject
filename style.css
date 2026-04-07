@@ -181,8 +181,9 @@ section h2 {
     border-top: 3px solid #007BFF;
 }
 
-.contact-container{
-    background-color: rgba(254, 254, 254, 0.655);
+
+.contact-container {
+    /* background-color: rgba(254, 254, 254, 0.655); */
     padding: 12px;
     margin: 12px;
     display: flex;
@@ -190,22 +191,31 @@ section h2 {
     justify-content: space-between;
     border-radius: 12px;
 }
-form{
+
+form {
+    
     padding: 15px;
     margin-left: 180px;
     background-color: #ffffff;
     box-shadow: 1px 1px rgb(70, 70, 70);
     border-radius: 12px;
+    width: 280px;
     /* border: 1px #222222; */
     font-weight: bold;
-    border: 1px solid rgb(44, 44, 44);
-    
+    /* border: 1px solid rgb(44, 44, 44); */
+
 }
 
+.input{
+    border: none;
+    border-bottom: 1px solid #000;
+    background: transparent;
+    width: 98%;
+}
 
-.form2{
+.form2 {
     padding: 12px;
-    margin-right: 50px;
+    margin-right: 40px;
 }
 
 aside {
